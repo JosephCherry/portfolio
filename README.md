@@ -1,6 +1,6 @@
 # Portfolio 
 
-## AR Jedi Training 
+## AR Jedi Training
 
 Created over two days at Boost's XR weekend hackathon using Unity 3D & Google ARcore. The prototype was designed to test audio as a UI source and gameplay element in AR. You can watch the game in action [HERE](https://www.youtube.com/watch?v=utXSMC1-PBM&feature=youtu.be&fbclid=IwAR1p6DNw-nzMohE7PapvmwpgRnUVEE2aVjLsxPbxjD7je4W5rgSK6jPaXKo) or download the .apk on a ARcore compatible device with ARcore installed to play it for yourself!
 
