@@ -1,0 +1,20 @@
+.Navbar {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgba(10, 10, 10, 0.788);
+}
+.Navbar-item {
+  display: inline;
+  margin: 0 0.5em;
+}
+.Navbar-link {
+  line-height: 2;
+  color: rgba(207, 207, 204, 0.966);
+  text-decoration: none;
+  font-size: 1.5em;
+}
+.Navbar-linkActive {
+  font-weight: 700;
+}

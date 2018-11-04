@@ -1,0 +1,13 @@
+* {box-sizing: border-box;}
+
+.login-page{
+  font-size: 1em;
+  display: grid;
+  grid-template-areas:
+    "a b c";
+}
+
+.login-form{
+  grid-area: b;
+}
+
